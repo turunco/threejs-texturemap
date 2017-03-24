@@ -2,7 +2,7 @@
 practice of three.js - texturemap
 
 ## Preparation.
-Connect USB video to your PC.
+Connect USB camera to your PC.
 
 
 ## Execute.
