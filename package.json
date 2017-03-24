@@ -1,0 +1,11 @@
+{
+    "name": "threejs-helloworld",
+    "version": "0.1.0",
+    "description": "threejs helloworld",
+    "scripts": {
+        "start": "static --cache 1"
+    },
+    "author": "turunco",
+    "license": "ISC",
+    "devDependencies": {}
+}
