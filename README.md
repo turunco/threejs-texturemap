@@ -1,5 +1,9 @@
-# threejs-helloworld
-practice of three.js
+# threejs-texturemap
+practice of three.js - texturemap
+
+## Preparation.
+Connect USB video to your PC.
+
 
 ## Execute.
 ```
